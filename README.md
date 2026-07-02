@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://wa.me/923084895395"><img src="https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/muhammad-awais-noul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.facebook.com/awaisnouldeveloper"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://web.facebook.com/awaisbhai4152/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ## 🚀 Featured Projects  
